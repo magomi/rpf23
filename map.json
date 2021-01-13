@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/teamweb.mms-at-work.de\/display\/uns\/Coronavirus+-+Informationen+und+Handlungsempfehlung"
+                 "value":"https:\/\/magomi.github.io\/rpf23\/infopages\/restrooms.html"
                 }],
          "type":"tilelayer",
          "visible":true,
